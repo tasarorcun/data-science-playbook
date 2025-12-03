@@ -27,8 +27,8 @@ This directory covers the architectural patterns required to build cognitive eng
 ## 📂 Notebook Index
 
 | Notebook | Status | Description | Colab URL |
-| :--- | :--- | :--- |
-| `01_working_with_openai_api.ipynb` | ✅ Ready | OpenAI API fundamentals. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tasarorcun/data-science-playbook/blob/main/04-genai-and-agents/01_working_with_openai_api.ipynb)
+| :--- | :--- | :--- | :--- |
+| `01_working_with_openai_api.ipynb` | ✅ Ready | OpenAI API fundamentals. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tasarorcun/data-science-playbook/blob/main/04-genai-and-agents/01_working_with_openai_api.ipynb) |
 | `02_advanced_rag_pipeline.ipynb` | 🚧 Planned | End-to-end RAG implementation with citation support. | ... |
 | `03_agent_tool_use.ipynb` | 🚧 Planned | Demonstrating an agent that queries external biological APIs. | ... |
 
